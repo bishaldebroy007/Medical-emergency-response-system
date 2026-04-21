@@ -1,4 +1,4 @@
-# Medical EmergenSee Response System MERS
+# Medical EmergenSee Response System (MERS)
 
 A modular web platform that integrates hospital management, blood donation, and fundraising workflows to support clinical decision-making and operational efficiency.
 
